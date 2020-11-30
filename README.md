@@ -32,7 +32,7 @@ Invoke-WebRev -ip IP -port PORT [-ssl]
 
 ## Installation
 ```shell
-git clone [Revshell-Generator]/HTTP-revshell.git
+git clone ![Revshell-Generator]/HTTP-revshell.git
 cd HTTP-revshell/
 pip3 install -r requirements.txt
 ```
